@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main-div-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    /* gap: 10px; */
+    background-color: #131921;
+}
+.nav{
+    height: 60px;
+}
+.amazon-img{
+    height: 50px;
+    width: 128.73px;
+    padding: 4px;
+
+}
+.Delivering{
+    color: white;
+}
+
+#dropdown{
+    height: 35px;
+
+}
+
+.searchbar{
+    height: 35px;
+    width: 600px;
+    margin: 10px;
+    padding-left: 5px;
+}
+
+.searchbutton{
+    border: 1px solid wheat;
+    background-color: #F3A847;
+    height: 35px;
+}
+
+
+
+.search-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.sign-in{
+    color: aliceblue;
+}
+
+.return{
+    color: aliceblue;
+    
+}
+
+
+
+
+.main-div-nav2{
+    background-color: #232F3E;
+    height: 40px;
+    
+}
+
+
+
+.list{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    font-size: 14px;
+    color: aliceblue;
+    padding: 10px 10px;
+
+}
+
+.last-img{
+    width: auto;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    justify-content: center;
+    justify-items: center;
+}
+
+.mainimg{
+    width: 100%;
+    height: auto;
+    padding: 0 38px;
+   
+}
+
+.upper{
+    height: 420px;
+    width: 350px;
+    position: relative;
+    top: -310px;
+    background-color: white;
+    margin-left: 55px;
+}
+h2{
+    padding: 15px;
+}
+
+.imgdiv1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
+    padding: 15px;
+    gap: 5px;
+
+    div{
+        img{
+            width: 100%;
+        }
+    }
+}
+.see-all{
+    padding: 15px;
+}
+.upperdiv{
+    display: flex;
+}
